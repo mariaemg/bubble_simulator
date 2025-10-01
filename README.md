@@ -4,8 +4,6 @@
 
 Este proyecto es una simulación interactiva de burbujas basada en el algoritmo de metaballs, implementada en Python con GLSL para el renderizado. La simulación permite visualizar cómo las burbujas interactúan entre sí, fusionándose y separándose, creando efectos visuales fluidos y orgánicos.
 
-![Simulación de burbujas](https://github.com/mariaemg/bubble_simulator/assets/imagen_ejemplo.png)
-
 ---
 
 ## 🚀 Descripción
